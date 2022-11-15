@@ -1,0 +1,60 @@
+body {
+    overflow-x: hidden;
+}
+
+.encabezado {
+    color:#0064A5;
+}
+.fondo {
+    background-size: cover;
+    background-image: url("C:\Users\evelin\Desktop\equipohappyplacelpc2022\frontend\src\Imagenes\fondo.jpg");
+}
+.fondosleepover {
+    background-image: url("C:\Users\evelin\Desktop\equipohappyplacelpc2022\frontend\src\Imagenes\card.jpg");
+}
+.fondopaseo{
+    background-size: cover;
+    background-image: url("C:\Users\evelin\Desktop\equipohappyplacelpc2022\frontend\src\Imagenes\fondopaseo.jpg"); 
+}
+.fondodaycare{
+    background-size: cover;
+    background-image: url("C:\Users\evelin\Desktop\equipohappyplacelpc2022\frontend\src\Imagenes\fondodaycare.jpg"); 
+}
+.fondoiniciarsesion{
+    background-color: #63bffcd7;
+}
+.fondoregistrarse{
+    background-color: #63bffcd7;
+}
+.fondoterminar{
+    background-color: #63bffcd7;
+}
+.fondohero {
+    background-size: cover;
+    background-position: 50%;
+}
+.background-hero{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fullscreen{
+    min-height: 100vh!important;
+}
+.fondoservicio {
+    background-color: rgb(79, 178, 248);
+}
+.palabras {
+    color: rgba(11, 12, 12, 0.612);
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+.fondopie {
+    color: white;
+    background-color: rgb(22, 7, 59);
+}
