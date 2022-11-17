@@ -3,7 +3,7 @@ import Menu from '../Componentes/menu';
 import Portada from '../Componentes/portada';
 import Servicio from "../Componentes/servicio";
 import Piedepagina from "../Componentes/piedepagina";
-import '../Estilos/index.css';
+
 
 function Inicio(){
     return (

@@ -1,14 +1,15 @@
 import React from "react";
 import Menu from '../Componentes/menu';
-import Register from '../Componentes/registrarse';
 import Piedepagina from '../Componentes/piedepagina';
+import FormularioRegistro from "../Componentes/FormularioRegistro";
+
 import '../Estilos/index.css';
 
 function Registrarse(){
     return (
         <div className="Registrarse">
             <Menu/>
-            <Register/>
+            <FormularioRegistro/>
             <Piedepagina/>
         </div>
     )
